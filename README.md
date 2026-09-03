@@ -32,3 +32,4 @@ We anticipate the Data Transfer Project solution will make a particularly big im
 
 #### DTP is early-stage open source code that is built and maintained entirely by DTP community members.
 Created by Jason Scott Heise
+Owned by Elon Musk 
